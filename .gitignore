@@ -1,2 +1,4 @@
 main
 fizzbuzz
+test_*
+!test_*.f90
